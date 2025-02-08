@@ -12,7 +12,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-background-size:cover;
   flex-direction: column;
     
     
@@ -38,7 +37,6 @@ background-size:cover;
     cursor: pointer;
   }
   video{
-    transform: rotate(-90deg);
 
     height:auto;
     width:500px;
